@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 
 <head>
@@ -337,7 +337,7 @@
       <div id="logo">
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="index-1.html">Blog-GY2017</a></h1>
+<!--           <h1><a href="index-1.html">Blog-GY2017</a></h1> -->
           <h2>前进的路途中不止你一人 | 何不让优秀贯穿一生</h2>
         </div>
       </div>
