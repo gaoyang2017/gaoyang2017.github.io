@@ -431,8 +431,8 @@
         <p>
 					我是可爱的图片说明~
         </p>
-        <span class="center"><img width="200px"; height="120px"; src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699252722&di=687339614c9d4a48b86f6bddd7e98bc4&imgtype=0&src=http%3A%2F%2Ffile05.16sucai.com%2F2015%2F0720%2Fbbc0aafb0c998fcf31f1260d9de26dcb.png" alt="example graphic"  /></span>
-        <span class="right"><img width="200px"; height="120px"; src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699350704&di=c3d062f09b082317d1e107d7999fb8ee&imgtype=0&src=http%3A%2F%2Fimage.tupian114.com%2F20140416%2F09204698.png" alt="example graphic"  /></span>
+        <span class="left"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699252733&di=ff4eae1973076ba4035b2525a7687c1f&imgtype=0&src=http%3A%2F%2Fscimg.jb51.net%2Fallimg%2F150711%2F11-150G11141460-L.jpg" alt="example graphic" /></span>
+        <span class="left"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699252733&di=ff4eae1973076ba4035b2525a7687c1f&imgtype=0&src=http%3A%2F%2Fscimg.jb51.net%2Fallimg%2F150711%2F11-150G11141460-L.jpg" alt="example graphic" /></span>
         <p>
 					我是可爱的图片说明~
 					<br />
