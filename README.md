@@ -13,12 +13,13 @@
 	
 	*
 	{ margin: 0;
-	  padding: 0;}
+	font-family:"微软雅黑"；
+	  padding: 0;}
 	
 	body
 	{ font: normal .80em 'trebuchet ms', arial, sans-serif;
 	  background: #646557 url(pattern.png) repeat fixed;
-	  color: #5D5D5D;}
+	  color: #00899f;}
 	
 	p
 	{ padding: 0 0 15px 0;
@@ -463,8 +464,8 @@
     <div id="footer">
       <p><a href="index-1.html">Home</a> | <a href="#">Examples</a> | <a href="#">A Page</a> | <a href="#">Another Page</a> | <a href="#">Contact</a></p>
       <p>Copyright &copy; Blog-GY2017 
-    </div>
+<!--     </div> -->
     <p>&nbsp;</p>
   </div>
-</body>
-</html>
+<!-- </body>
+</html> -->
