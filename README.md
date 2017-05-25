@@ -18,8 +18,8 @@
 	
 	body
 	{ font: normal .80em 'trebuchet ms', arial, sans-serif;
-	  background: #646557 url(pattern.png) repeat fixed;
-	  color: #00899f;}
+	  background: #00899f url(pattern.png) repeat fixed;
+	  color: #5d5d5d;}
 	
 	p
 	{ padding: 0 0 15px 0;
@@ -466,6 +466,6 @@
       <p>Copyright &copy; Blog-GY2017 
 <!--     </div> -->
     <p>&nbsp;</p>
-  </div>
+<!--   </div> -->
 <!-- </body>
 </html> -->
