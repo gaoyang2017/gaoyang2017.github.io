@@ -18,8 +18,8 @@
 	
 	body
 	{ font: normal .80em 'trebuchet ms', arial, sans-serif;
-	  background: #00899f url(pattern.png) repeat fixed;
-	  color: #5d5d5d;}
+	  background: #00899F url(pattern.png) repeat fixed;
+	  color: #5D5D5D;}
 	
 	p
 	{ padding: 0 0 15px 0;
