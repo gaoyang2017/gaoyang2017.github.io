@@ -427,12 +427,12 @@
         </ol>
         <h2>图片</h2>
         <p>图像可以放置在左侧，中央或右侧:</p>
-        <span class="left"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699252733&di=ff4eae1973076ba4035b2525a7687c1f&imgtype=0&src=http%3A%2F%2Fscimg.jb51.net%2Fallimg%2F150711%2F11-150G11141460-L.jpg" alt="example graphic" /></span>
+        <span class="left"><img src="" alt="example graphic" /></span>
         <p>
 					我是可爱的图片说明~
         </p>
-        <span class="left"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699252733&di=ff4eae1973076ba4035b2525a7687c1f&imgtype=0&src=http%3A%2F%2Fscimg.jb51.net%2Fallimg%2F150711%2F11-150G11141460-L.jpg" alt="example graphic" /></span>
-        <span class="left"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495699252733&di=ff4eae1973076ba4035b2525a7687c1f&imgtype=0&src=http%3A%2F%2Fscimg.jb51.net%2Fallimg%2F150711%2F11-150G11141460-L.jpg" alt="example graphic" /></span>
+        <span class="left"><img src="" alt="example graphic" /></span>
+        <span class="left"><img src="" alt="example graphic" /></span>
         <p>
 					我是可爱的图片说明~
 					<br />
