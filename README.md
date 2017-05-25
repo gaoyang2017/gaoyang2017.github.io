@@ -427,7 +427,7 @@
         </ol>
         <h2>图片</h2>
         <p>图像可以放置在左侧，中央或右侧:</p>
-        <span class="left"><img width="200px"; height="120px"; src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495697841549&di=60746fcdcd4dac18993d8b70b57b9eb2&imgtype=0&src=http%3A%2F%2Ffile02.16sucai.com%2Fweb%2F2014%2F12%2F104230D38-19.png" alt="example graphic" /></span>
+        <span class="left"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495697841549&di=60746fcdcd4dac18993d8b70b57b9eb2&imgtype=0&src=http%3A%2F%2Ffile02.16sucai.com%2Fweb%2F2014%2F12%2F104230D38-19.png" alt="example graphic" /></span>
         <p>
 					我是可爱的图片说明~
         </p>
