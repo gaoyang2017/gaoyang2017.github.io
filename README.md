@@ -427,12 +427,12 @@
         </ol>
         <h2>图片</h2>
         <p>图像可以放置在左侧，中央或右侧:</p>
-        <span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+        <span class="left"><img src="style/graphic.png" alt="图片宝宝走丢了" /></span>
         <p>
 					我是可爱的图片说明~
         </p>
-        <span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
-        <span class="left"><img src="style/graphic.png" alt="example graphic" /></span>
+        <span class="left"><img src="style/graphic.png" alt="图片宝宝走丢了" /></span>
+        <span class="left"><img src="style/graphic.png" alt="图片宝宝走丢了" /></span>
         <p>
 					我是可爱的图片说明~
 					<br />
